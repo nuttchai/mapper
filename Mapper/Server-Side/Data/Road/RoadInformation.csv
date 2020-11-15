@@ -1,0 +1,6 @@
+RoadID,"distance, km",RoadName,Lat,long,lane,city
+R1,5,Road1,0,0,2,Bangkok
+R2,3,Road2,1,1,3,Bangkok
+R3,4,Road3,2,2,4,Bangkok
+R4,5,Road4,3,3,2,Bangkok
+R5,2,Road5,4,4,2,Bangkok
